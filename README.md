@@ -6,3 +6,4 @@ The objective of this project is to design and implement a two-player Tic Tac To
 Expected Outcome:
 The successful completion of this project will result in a fully functional 2-player Tic Tac Toe game written in the R programming language. The game should be easy to understand, engaging for players, and should run without errors or unexpected behavior.
 
+Author - CHINMAYEE BHAT
